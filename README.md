@@ -6,5 +6,5 @@ Repo crée pour les notebooks utilisés dans les processus de contrôle ou de ne
 
 Notebook et fichiers de test (sample) pour l'anlyse d'erreurs dans les zones 9XX des données de la Bibliothèque de l'UNIGE
 
-Utilisation avec Binder : https://mybinder.org/v2/gh/dis-unige/data_cleaning/master?filepath=%2Fmarc_9xx%2Fanalyse_9xx.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dis-unige/data_cleaning/master?filepath=%2Fmarc_9xx%2Fanalyse_9xx.ipynb)
 
