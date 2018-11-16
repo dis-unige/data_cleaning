@@ -1,0 +1,707 @@
+zone	indicateur1	indicateur2	souszone	valeur	occurences	erreur_i1	erreur_i2	erreur_souszone	erreur_valeur
+902	 	 	0			0	0	1	0
+902	 	 	0	2	1.0	0	0	1	0
+902	 	 	0	6	1.0	0	0	1	0
+902	 	 	1	6	1.0	0	0	1	0
+902	 	 	1	4	1.0	0	0	1	0
+902	 	 	1	55	1.0	0	0	1	0
+902	 	 	1	998/03	1.0	0	0	1	0
+902	 	 	1	998/07	1.0	0	0	1	0
+902	 	 	1	998/10	1.0	0	0	1	0
+902	 	 	1	999/09	1.0	0	0	1	0
+902	 	 	2	999/09	1.0	0	0	1	0
+902	 	 	2	004/04	1.0	0	0	1	0
+902	 	 	2	006/01	1.0	0	0	1	0
+902	 	 	2	006/11	2.0	0	0	1	0
+902	 	 	2	007/02	1.0	0	0	1	0
+902	 	 	2	007/10	1.0	0	0	1	0
+902	 	 	2	fondsdubois	479.0	0	0	1	0
+902	 	 	2	fondsduboisd	1.0	0	0	1	0
+902	 	 	2	fondsdunand	197.0	0	0	1	0
+902	 	 	2	fondskasser	240.0	0	0	1	0
+902	 	 	2	fondslivelihood	140.0	0	0	1	0
+902	 	 	2	fondsrappard	23.0	0	0	1	0
+902	 	 	2	fondssouvarine	3563.0	0	0	1	0
+902	 	 	2	ss	1.0	0	0	1	0
+902	 	 	2	t020	1.0	0	0	1	0
+902	 	 	2	t120	1.0	0	0	1	0
+902	 	 	2	thème	2.0	0	0	1	0
+902	 	 	2	x	3.0	0	0	1	0
+902	 	 	2	xx	3.0	0	0	1	0
+902	 	 	2	§	1.0	0	0	1	0
+902	 	 	2	§00	1.0	0	0	1	0
+902	 	 	2	§140	1.0	0	0	1	0
+902	 	 	2	§5	1.0	0	0	1	0
+902	 	 	d	§5	1.0	0	0	1	0
+902	 	 	d	05	1.0	0	0	1	0
+902	 	 	d	100	1.0	0	0	1	0
+902	 	 	d	1998/09	1.0	0	0	1	0
+902	 	 	d	2001/11	1.0	0	0	1	0
+902	 	 	d	2007/05	1.0	0	0	1	0
+902	 	 	d	2009/04	1.0	0	0	1	0
+902	 	 	d	2011/04	1.0	0	0	1	0
+902	 	 	d	2012	1.0	0	0	1	0
+902	 	 	d	2016/02	1.0	0	0	1	0
+902	 	 	d	300	1.0	0	0	1	0
+902	 	 	d	35	1.0	0	0	1	0
+902	 	 	d	503	1.0	0	0	1	0
+902	 	 	d	515	1.0	0	0	1	0
+902	 	 	d	950	1.0	0	0	1	0
+902	 	 	d	don ambassade japonais	1.0	0	0	1	0
+902	 	 	d	retrocatalogage	4.0	0	0	1	0
+902	 	 	d	rétrocatalogage	1.0	0	0	1	0
+902	 	 	e	rétrocatalogage	1.0	0	0	1	0
+902	 	 	e	70	1.0	0	0	1	0
+902	 	 	f	70	1.0	0	0	1	0
+902	 	 	f	2002/09	1.0	0	0	1	0
+902	 	 	g	2002/09	1.0	0	0	1	0
+902	 	 	g	2010/03	1.0	0	0	1	0
+902	 	 	l	2010/03	1.0	0	0	1	0
+902	 	 	l	a gevbge	1.0	0	0	1	0
+902	 	 	l	ar010	1.0	0	0	1	0
+902	 	 	v	1024	1.0	0	0	1	0
+902	 	 	v	03	1.0	0	0	1	0
+902	 	 	v	10	1.0	0	0	1	0
+902	 	 	v	1998/10	1.0	0	0	1	0
+902	 	 	v	1998/11	1.0	0	0	1	0
+902	 	 	v	1999/02	1.0	0	0	1	0
+902	 	 	v	1999/11	1.0	0	0	1	0
+902	 	 	v	2000/05	1.0	0	0	1	0
+902	 	 	v	2000/07	1.0	0	0	1	0
+902	 	 	v	2000/09	1.0	0	0	1	0
+902	 	 	v	2014/07	1.0	0	0	1	0
+902	 	 	v	305	1.0	0	0	1	0
+902	 	 	v	320	1.0	0	0	1	0
+902	 	 	v	330	1.0	0	0	1	0
+902	 	 	v	40020	2.0	0	0	1	0
+902	 	 	v	516	1.0	0	0	1	0
+902	 	 	v	930	1.0	0	0	1	0
+902	 	 	v	c 01	1.0	0	0	1	0
+902	 	 	x	c 01	1.0	0	0	1	0
+902	 	 	x	01	1.0	0	0	1	0
+902	 	 	x	010	1.0	0	0	1	0
+902	 	 	x	03/2000	1.0	0	0	1	0
+902	 	 	x	04	1.0	0	0	1	0
+902	 	 	x	04/2000	1.0	0	0	1	0
+902	 	 	x	05	1.0	0	0	1	0
+902	 	 	x	09	1.0	0	0	1	0
+902	 	 	x	090	1.0	0	0	1	0
+902	 	 	x	10	1.0	0	0	1	0
+902	 	 	x	1998/01	2.0	0	0	1	0
+902	 	 	x	1998/12	1.0	0	0	1	0
+902	 	 	x	1998/4	1.0	0	0	1	0
+902	 	 	x	1999/03	1.0	0	0	1	0
+902	 	 	x	1999/05	1.0	0	0	1	0
+902	 	 	x	1999/11	1.0	0	0	1	0
+902	 	 	x	2000/03	1.0	0	0	1	0
+902	 	 	x	2000/05	5.0	0	0	1	0
+902	 	 	x	2000/06	1.0	0	0	1	0
+902	 	 	x	ge/vbge/a/2008/100	1.0	0	0	1	0
+902	 	 	x	ge/vbge/a/2008/20165.14	1.0	0	0	1	0
+902	 	 	x	ge/vbge/a/2009/140	1.0	0	0	1	0
+902	 	 	x	ge/vbge/a/2011/189848.4	1.0	0	0	1	0
+902	 	 	x	ge/vbge/d/2012/16	1.0	0	0	1	0
+902	 	 	x	ge/vbge/d/2014/88	1.0	0	0	1	0
+902	 	 	x	ge/vbge/d/72/258	1.0	0	0	1	0
+902	 	 	x	ge/vbge/d/75/187	1.0	0	0	1	0
+902	 	 	x	ge/vbge/l/dat	1.0	0	0	1	0
+902	 	 	x	ge/veth/a/9/2009	1.0	0	0	1	0
+902	 	 	x	ge/vmar/d/2008/	1.0	0	0	1	0
+902	 	 	z	ge/vmar/d/2008/	1.0	0	0	1	0
+902	 	 	z	1	4.0	0	0	1	0
+902	 	 	z	503	3.0	0	0	1	0
+902	 	 	z	504	2.0	0	0	1	0
+902	 	 	z	515	1.0	0	0	1	0
+902	 	 	z	800	1.0	0	0	1	0
+902	 	 	z	A Joyc 8*GLAS Thi cof	1.0	0	0	1	0
+902	1	 	z	A Joyc 8*GLAS Thi cof	1.0	1	0	1	0
+902	1	 	a	A Joyc 8*GLAS Thi cof	1.0	1	0	0	1
+902	1	 	a	gedoc	1.0	1	0	0	0
+932	 	 	a	gedoc	1.0	0	0	0	1
+932	 	 	a	gedoc	1.0	0	0	0	1
+932	 	 	a	0705321	1.0	0	0	0	1
+932	 	 	a	1064024494	1.0	0	0	0	1
+932	 	 	a	1064030131	1.0	0	0	0	1
+932	 	 	a	1064038756	1.0	0	0	0	1
+932	 	 	a	1064048279	1.0	0	0	0	1
+932	 	 	a	1064078845	1.0	0	0	0	1
+932	 	 	a	1064093839	1.0	0	0	0	1
+932	 	 	a	1064111378	1.0	0	0	0	1
+932	 	 	a	1064126637	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_02.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_04.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_06_a.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_08.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_08_02.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_08_a.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_08_b.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_08_ww.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_03.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_04.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_2-2.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_2-3.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_2.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_5-2.jpg	1.0	0	0	0	1
+932	 	 	a	BGECIG_CG/38g_09_5-3.jpg	1.0	0	0	0	1
+932	 	 	a	képszám	2.0	0	0	0	1
+932	 	 	a	memoires servir l'histoire cardinal 1753	1.0	0	0	0	1
+932	 	 	a	necfbv	2.0	0	0	0	1
+932	 	 	a	recatge04	1.0	0	0	0	1
+932	 	 	a	recatge05	1.0	0	0	0	1
+932	 	 	a	vgevbaa130098	1.0	0	0	0	1
+932	 	 	x	vgevbaa130098	1.0	0	0	1	0
+932	 	 	x	ge/vbmu/a/95/20	1.0	0	0	1	0
+932	 	0	x	ge/vbmu/a/95/20	1.0	0	1	1	0
+932	 	0	a	ge/vbmu/a/95/20	1.0	0	1	0	1
+932	 	0	a	gevbaa060261	1.0	0	1	0	0
+932	 	0	a	gevbge0760258	1.0	0	1	0	0
+932	1	 	a	gevbge0760258	1.0	1	0	0	0
+932	1	 	a	gevbge0760258	1.0	1	0	0	0
+932	1	 	a	gevcjb300821	1.0	1	0	0	0
+982	 	 	2	gevcjb300821	1.0	0	0	0	1
+982	 	 	2	004.678 COL	1.0	0	0	0	1
+982	 	 	2	005.133 LAT MAGa	1.0	0	0	0	1
+982	 	 	2	005.2 BOU	1.0	0	0	0	1
+982	 	 	2	005.2 ESP	1.0	0	0	0	1
+982	 	 	2	020.14 COM	1.0	0	0	0	1
+982	 	 	2	025.32 ASSf fre	1.0	0	0	0	1
+982	 	 	2	1.8*GOI OTH	1.0	0	0	0	1
+982	 	 	2	369 MAR	1.0	0	0	0	1
+982	 	 	2	398.2 BET	1.0	0	0	0	1
+982	 	 	2	4/Gén*ROS	1.0	0	0	0	1
+982	 	 	2	519.5 HUC	1.0	0	0	0	1
+982	 	 	2	519.5 HUS	1.0	0	0	0	1
+982	 	 	2	519.5 RAB	1.0	0	0	0	1
+982	 	 	2	530.1	1.0	0	0	0	1
+982	 	 	2	530.1 LEO	1.0	0	0	0	1
+982	 	 	2	650.1 MONb	1.0	0	0	0	1
+982	 	 	2	658.314 5 SZC	1.0	0	0	0	1
+982	 	 	2	658.406 GOV	1.0	0	0	0	1
+982	 	 	2	7.071 GILL/5 (DVD)	1.0	0	0	0	1
+982	 	 	2	7606.1	1.0	0	0	0	1
+982	 	 	2	9/T*VIL SAN	1.0	0	0	0	1
+982	 	 	2	959	1.0	0	0	0	1
+982	 	 	2	959 HEIA 82039	1.0	0	0	0	1
+982	 	 	2	982	1.0	0	0	0	1
+982	 	 	2	Af LIB per gdl	1.0	0	0	0	1
+982	 	 	2	Af MAN and mei	1.0	0	0	0	1
+982	 	 	2	Ai por lrd	1.0	0	0	0	1
+982	 	 	2	BAA AA F 48/64	1.0	0	0	0	1
+982	 	 	2	BAA JK F 52/REL/2	1.0	0	0	0	1
+982	 	 	2	BE 119 (4)	1.0	0	0	0	1
+982	 	 	2	CA/D 67 g BROX 2010	1.0	0	0	0	1
+982	 	 	2	CDU-GEUIEG	1.0	0	0	0	1
+982	 	 	2	CDU-SYS-GEUIEG	2.0	0	0	0	1
+982	 	 	2	D.4.0 QUI Ed.2	1.0	0	0	0	1
+982	 	 	2	DEW-MEUM	1.0	0	0	0	1
+982	 	 	2	DVD-1411	1.0	0	0	0	1
+982	 	 	2	Db D lan ris	1.0	0	0	0	1
+982	 	 	2	Dn F not ddl	1.0	0	0	0	1
+982	 	 	2	EG:Coll*MIFAO 79	1.0	0	0	0	1
+982	 	 	2	EG:Coll*MIFAO 80	1.0	0	0	0	1
+982	 	 	2	EG:Coll*OIP Excav. Medinet	1.0	0	0	0	1
+982	 	 	2	EG:Coll*OIP Khonsu	1.0	0	0	0	1
+982	 	 	2	EG:Coll*OIP Khonsu 1	1.0	0	0	0	1
+982	 	 	2	EG:Coll*PAVN	1.0	0	0	0	1
+982	 	 	2	EG:Coll*PPYE 5	1.0	0	0	0	1
+982	 	 	2	EG:Coll*PTT	2.0	0	0	0	1
+982	 	 	2	GE-ULCH	1.0	0	0	0	1
+982	 	 	2	Ge-ulsh	1.0	0	0	0	1
+982	 	 	2	HEIBR 2009	1.0	0	0	0	1
+982	 	 	2	HEIBR 301+1	1.0	0	0	0	1
+982	 	 	2	Hf 1 I BARB lib nqt	1.0	0	0	0	1
+982	 	 	2	I.2.4 HAM	1.0	0	0	0	1
+982	 	 	2	M2 SOLA Lar	1.0	0	0	0	1
+982	 	 	2	SM	1.0	0	0	0	1
+982	 	 	2	VI 2 Fa BONI	1.0	0	0	0	1
+982	 	 	2	VI 2 Grande-Bretagne AGES	1.0	0	0	0	1
+982	 	 	2	VII 1d BUSI	1.0	0	0	0	1
+982	 	 	2	WY 11 BOY	1.0	0	0	0	1
+982	 	 	2	acm-geuicui	1.0	0	0	0	1
+982	 	 	2	ams	16.0	0	0	0	1
+982	 	 	2	ams-geudbu	1.0	0	0	0	1
+982	 	 	2	ams-geussm 01.20/523	1.0	0	0	0	1
+982	 	 	2	ams-geusssm	1.0	0	0	0	1
+982	 	 	2	bibvs	1.0	0	0	0	1
+982	 	 	2	cd-geussc	1.0	0	0	0	1
+982	 	 	2	cd-sys-geussc	2.0	0	0	0	1
+982	 	 	2	cdiu-geufpe	1.0	0	0	0	1
+982	 	 	2	cdu geufpe	25.0	0	0	0	1
+982	 	 	2	cdu geulja	1.0	0	0	0	1
+982	 	 	2	cdu geussc	3.0	0	0	0	1
+982	 	 	2	cdu- geufpe	1.0	0	0	0	1
+982	 	 	2	cdu--geuieg	1.0	0	0	0	1
+982	 	 	2	cdu-nencm	1.0	0	0	0	1
+982	 	 	2	cdu-neubfl-il	1.0	0	0	0	1
+982	 	 	2	cdu-sys-geueig	4.0	0	0	0	1
+982	 	 	2	cdu-sys-geufpe	1.0	0	0	0	1
+982	 	 	2	cdu-sys-geuieg 323.2	1.0	0	0	0	1
+982	 	 	2	cdu-sys-geusc	2.0	0	0	0	1
+982	 	 	2	cdu-sys-geuscc	1.0	0	0	0	1
+982	 	 	2	cdu-sys-geussa	4.0	0	0	0	1
+982	 	 	2	nlm-geuhim BJ 1-2195 APP	1.0	0	0	0	1
+982	 	 	2	nlm-geuhim QL 731 49MA V1 HIST	1.0	0	0	0	1
+982	 	 	2	pcdm 3.35 PERG	1.0	0	0	0	1
+982	 	 	2	pscm	4.0	0	0	0	1
+982	 	 	2	vs-part	1.0	0	0	0	1
+982	 	 	2	wcccsh	1.0	0	0	0	1
+982	 	 	A	wccsh	124242.0	0	0	1	0
+982	 	 	A	341.12	1.0	0	0	1	0
+982	 	 	b	Ε2 * ACTES	1.0	0	0	1	0
+982	 	 	b	576.6 Man	1.0	0	0	1	0
+982	 	 	b	L	1.0	0	0	1	0
+982	 	 	b	M1 BROM (7/8) Rog	1.0	0	0	1	0
+982	 	 	b	W 26.5 SEB	1.0	0	0	1	0
+982	 	 	c	W 26.5 SEB	1.0	0	0	1	0
+982	 	 	c	00	1.0	0	0	1	0
+982	 	 	c	302	1.0	0	0	1	0
+982	 	 	c	32	2.0	0	0	1	0
+982	 	 	c	539 BLA	1.0	0	0	1	0
+982	 	 	c	65	1.0	0	0	1	0
+982	 	 	c	WZ 330 BOG	1.0	0	0	1	0
+982	 	 	d	WZ 330 BOG	1.0	0	0	1	0
+982	 	 	d	(1981)	1.0	0	0	1	0
+982	 	 	d	(Audrey Isabel)	1.0	0	0	1	0
+982	 	 	d	(East)	1.0	0	0	1	0
+982	 	 	d	(Liturgy)	2.0	0	0	1	0
+982	 	 	d	1200-586 B.C.	1.0	0	0	1	0
+982	 	 	d	12th cent.	1.0	0	0	1	0
+982	 	 	d	12th century	1.0	0	0	1	0
+982	 	 	d	1328-1600	1.0	0	0	1	0
+982	 	 	d	13th century	1.0	0	0	1	0
+982	 	 	d	1485-	1.0	0	0	1	0
+982	 	 	d	14th century	1.0	0	0	1	0
+982	 	 	d	1536-1603	1.0	0	0	1	0
+982	 	 	d	1589-1789	1.0	0	0	1	0
+982	 	 	d	15th century	2.0	0	0	1	0
+982	 	 	d	1600-1800	244.0	0	0	1	0
+982	 	 	d	16th century	119.0	0	0	1	0
+982	 	 	d	1760-1820	1.0	0	0	1	0
+982	 	 	d	17th century	25.0	0	0	1	0
+982	 	 	d	1800-1850	93.0	0	0	1	0
+982	 	 	d	1820-1830	1.0	0	0	1	0
+982	 	 	d	1850-1900	288.0	0	0	1	0
+982	 	 	d	1865-1918	2.0	0	0	1	0
+982	 	 	d	1989-	4.0	0	0	1	0
+982	 	 	d	1989-1990	1.0	0	0	1	0
+982	 	 	d	1991-	1.0	0	0	1	0
+982	 	 	d	1991-1998	34.0	0	0	1	0
+982	 	 	d	1992-1994	1.0	0	0	1	0
+982	 	 	d	1992-1995	1.0	0	0	1	0
+982	 	 	d	1993	4.0	0	0	1	0
+982	 	 	d	1993-	6.0	0	0	1	0
+982	 	 	d	1994-	3.0	0	0	1	0
+982	 	 	d	1995-2005	1.0	0	0	1	0
+982	 	 	d	1997-	1.0	0	0	1	0
+982	 	 	d	1998-	1.0	0	0	1	0
+982	 	 	d	1998-2005	2.0	0	0	1	0
+982	 	 	d	1998-2006	4.0	0	0	1	0
+982	 	 	d	19th century	106.0	0	0	1	0
+982	 	 	d	20th Century	8.0	0	0	1	0
+982	 	 	d	20th century	702.0	0	0	1	0
+982	 	 	d	21st century	84.0	0	0	1	0
+982	 	 	d	21th century	2.0	0	0	1	0
+982	 	 	d	30-1600	237.0	0	0	1	0
+982	 	 	d	30-325	8.0	0	0	1	0
+982	 	 	d	500th anniversary of the arrival of C. Columbus	26.0	0	0	1	0
+982	 	 	d	50th anniversary	37.0	0	0	1	0
+982	 	 	d	600-1500	2.0	0	0	1	0
+982	 	 	d	6th century	1.0	0	0	1	0
+982	 	 	d	879-880	1.0	0	0	1	0
+982	 	 	d	AIDS (Disease)	1.0	0	0	1	0
+982	 	 	d	Abraham	13.0	0	0	1	0
+982	 	 	d	Accents and accentuation	1.0	0	0	1	0
+982	 	 	d	Accra	3.0	0	0	1	0
+982	 	 	d	Acts	2.0	0	0	1	0
+982	 	 	d	Acts I-XII	1.0	0	0	1	0
+982	 	 	d	Anglican theology	10.0	0	0	1	0
+982	 	 	d	Angola	7.0	0	0	1	0
+982	 	 	d	Animals	2.0	0	0	1	0
+982	 	 	d	Anointing	1.0	0	0	1	0
+982	 	 	d	Anthropological aspects	3.0	0	0	1	0
+982	 	 	d	Anthropology	27.0	0	0	1	0
+982	 	 	d	Antichrist	1.0	0	0	1	0
+982	 	 	d	Antioch	2.0	0	0	1	0
+982	 	 	d	Antiochene rite	1.0	0	0	1	0
+982	 	 	d	Antiquities	21.0	0	0	1	0
+982	 	 	d	Apocalyptic	10.0	0	0	1	0
+982	 	 	d	Apostolic witness	4.0	0	0	1	0
+982	 	 	d	Apostolicity	11.0	0	0	1	0
+982	 	 	d	Apparitions and miracles	1.0	0	0	1	0
+982	 	 	d	Appointment, call, and election	3.0	0	0	1	0
+982	 	 	d	Appreciation	3.0	0	0	1	0
+982	 	 	d	Arab countries	8.0	0	0	1	0
+982	 	 	d	Arabia, Southern	1.0	0	0	1	0
+982	 	 	d	Arabic	5.0	0	0	1	0
+982	 	 	d	Archeology	2.0	0	0	1	0
+982	 	 	d	Archives	16.0	0	0	1	0
+982	 	 	d	Argentina	29.0	0	0	1	0
+982	 	 	d	Armenian	12.0	0	0	1	0
+982	 	 	d	Armenian Church	9.0	0	0	1	0
+982	 	 	d	Arnhem Land (N.T.)	2.0	0	0	1	0
+982	 	 	d	Art	1.0	0	0	1	0
+982	 	 	d	Artificial	8.0	0	0	1	0
+982	 	 	d	Arts	1.0	0	0	1	0
+982	 	 	d	As leftist organization	5.0	0	0	1	0
+982	 	 	d	Ascension	1.0	0	0	1	0
+982	 	 	d	Asia	690.0	0	0	1	0
+982	 	 	d	Asia-Pacific region	13.0	0	0	1	0
+982	 	 	d	Asian	2.0	0	0	1	0
+982	 	 	d	Assassination attempt, 1944 (July 20)	1.0	0	0	1	0
+982	 	 	d	Assumption	2.0	0	0	1	0
+982	 	 	d	Athos	2.0	0	0	1	0
+982	 	 	d	Atlas	4.0	0	0	1	0
+982	 	 	d	Atonement	7.0	0	0	1	0
+982	 	 	d	Atrocities	2.0	0	0	1	0
+982	 	 	d	Attitudes	1.0	0	0	1	0
+982	 	 	d	Attitudes toward Israel	2.0	0	0	1	0
+982	 	 	d	Brahmanism	1.0	0	0	1	0
+982	 	 	d	Brazil	129.0	0	0	1	0
+982	 	 	d	Bread	1.0	0	0	1	0
+982	 	 	d	British	2.0	0	0	1	0
+982	 	 	d	British Council of Churches	1.0	0	0	1	0
+982	 	 	d	Buddhism	49.0	0	0	1	0
+982	 	 	d	Buddhist interpretations	2.0	0	0	1	0
+982	 	 	d	Buildings	3.0	0	0	1	0
+982	 	 	d	Bulgaria	1.0	0	0	1	0
+982	 	 	d	Bulgarian	6.0	0	0	1	0
+982	 	 	d	Bund der Evangelischen Kirchen in der DDR	1.0	0	0	1	0
+982	 	 	d	Burma	3.0	0	0	1	0
+982	 	 	d	Burundi	2.0	0	0	1	0
+982	 	 	d	Byzantine	7.0	0	0	1	0
+982	 	 	d	Byzantine Empire	5.0	0	0	1	0
+982	 	 	d	Byzantine rite	6.0	0	0	1	0
+982	 	 	d	Byzantine rite, Greek	1.0	0	0	1	0
+982	 	 	d	Byzantine rite, Ruthenian	1.0	0	0	1	0
+982	 	 	d	Compassion	1.0	0	0	1	0
+982	 	 	d	Computer network resources	2.0	0	0	1	0
+982	 	 	d	Computer networks	1.0	0	0	1	0
+982	 	 	d	Comunità di Sant'Egidio	3.0	0	0	1	0
+982	 	 	d	Concentration camps	1.0	0	0	1	0
+982	 	 	d	Concordances	37.0	0	0	1	0
+982	 	 	d	Confession of faith	1.0	0	0	1	0
+982	 	 	d	Confiscations and contributions	2.0	0	0	1	0
+982	 	 	d	Conflict	14.0	0	0	1	0
+982	 	 	d	Conflict resolution	1.0	0	0	1	0
+982	 	 	d	Confucianism	4.0	0	0	1	0
+982	 	 	d	Congo (Brazzaville)	3.0	0	0	1	0
+982	 	 	d	Congo (Democratic Republic)	55.0	0	0	1	0
+982	 	 	d	Congregation for the Doctrine of the Faith	6.0	0	0	1	0
+982	 	 	d	Congregational	1.0	0	0	1	0
+982	 	 	d	Congregational churches	4.0	0	0	1	0
+982	 	 	d	Congresses	3.0	0	0	1	0
+982	 	 	d	Conscript labor	1.0	0	0	1	0
+982	 	 	d	Cross	4.0	0	0	1	0
+982	 	 	d	Crucifixion	19.0	0	0	1	0
+982	 	 	d	Cuba	14.0	0	0	1	0
+982	 	 	d	Cult	2.0	0	0	1	0
+982	 	 	d	Cultural assimilation	4.0	0	0	1	0
+982	 	 	d	Cultural policy	1.0	0	0	1	0
+982	 	 	d	Culture	10.0	0	0	1	0
+982	 	 	d	Curricula	1.0	0	0	1	0
+982	 	 	d	Curse	1.0	0	0	1	0
+982	 	 	d	Customs and practices	5.0	0	0	1	0
+982	 	 	d	Cwme	2.0	0	0	1	0
+982	 	 	d	Cyprus	3.0	0	0	1	0
+982	 	 	d	Czech Republic	6.0	0	0	1	0
+982	 	 	d	Czechoslovakia	3.0	0	0	1	0
+982	 	 	d	Côte d'Ivoire	8.0	0	0	1	0
+982	 	 	d	Českobratrská církev evangelická	1.0	0	0	1	0
+982	 	 	d	Dagbani	1.0	0	0	1	0
+982	 	 	d	Daily life of ministers	5.0	0	0	1	0
+982	 	 	d	Daniel	21.0	0	0	1	0
+982	 	 	d	Theravada	2.0	0	0	1	0
+982	 	 	d	Theravāda Buddhism	4.0	0	0	1	0
+982	 	 	d	Thessalonians	8.0	0	0	1	0
+982	 	 	d	Thessalonians 1	9.0	0	0	1	0
+982	 	 	d	Thessalonians 2	4.0	0	0	1	0
+982	 	 	d	Third Reich	105.0	0	0	1	0
+982	 	 	d	Third World	42.0	0	0	1	0
+982	 	 	d	Thuringia	2.0	0	0	1	0
+982	 	 	d	Thônex	5.0	0	0	1	0
+982	 	 	d	Thônex, Moillesulaz.	1.0	0	0	1	0
+982	 	 	d	Thônex, Pierre-à-Bochet.	1.0	0	0	1	0
+982	 	 	d	Vellore	1.0	0	0	1	0
+982	 	 	d	Veneration	1.0	0	0	1	0
+982	 	 	d	Venezuela	1.0	0	0	1	0
+982	 	 	d	Zechariah	10.0	0	0	1	0
+982	 	 	d	Zen Buddhism	3.0	0	0	1	0
+982	 	 	d	Zephaniah	9.0	0	0	1	0
+982	 	 	d	Zimbabwe	21.0	0	0	1	0
+982	 	 	d	Zulu	1.0	0	0	1	0
+982	 	 	d	Zurich	2.0	0	0	1	0
+982	 	 	d	[Commentaries]	6.0	0	0	1	0
+982	 	 	d	[Congresses]	1.0	0	0	1	0
+982	 	 	d	clarinette, violon, piano	1.0	0	0	1	0
+982	 	 	d	interracial	1.0	0	0	1	0
+982	 	 	d	percussionnistes	1.0	0	0	1	0
+982	 	 	d	theological	1.0	0	0	1	0
+982	 	 	e	theological	1.0	0	0	1	0
+982	 	 	e	1951-2000	2.0	0	0	1	0
+982	 	 	e	1975-2025	1.0	0	0	1	0
+982	 	 	e	20th century	1.0	0	0	1	0
+982	 	 	e	Biblical teaching	3.0	0	0	1	0
+982	 	 	e	Bibliography	1.0	0	0	1	0
+982	 	 	e	Bishops	7.0	0	0	1	0
+982	 	 	e	Comparative studies	2.0	0	0	1	0
+982	 	 	e	Criticism, interpretation, etc.	1.0	0	0	1	0
+982	 	 	e	Directories	1.0	0	0	1	0
+982	 	 	e	Economic conditions	1.0	0	0	1	0
+982	 	 	e	History [LCSH]	2.0	0	0	1	0
+982	 	 	e	LCSH]	110.0	0	0	1	0
+982	 	 	e	Philosophy	1.0	0	0	1	0
+982	 	 	e	Politics and government	1.0	0	0	1	0
+982	 	 	e	Social conditions	1.0	0	0	1	0
+982	 	 	e	Study and teaching	1.0	0	0	1	0
+982	 	 	e	Voir aussi: Archéologie, art antique - Rome	1.0	0	0	1	0
+982	 	 	e	Voir aussi: Edifices publics-maisons privées - Maison Tavel	1.0	0	0	1	0
+982	 	 	e	Voir: Adam (de Baalet)	1.0	0	0	1	0
+982	 	 	e	Voir: Anières, Bassy	1.0	0	0	1	0
+982	 	 	e	Voir: Archéologie, art antique - Asie mineure	1.0	0	0	1	0
+982	 	 	e	Voir: Archéologie, art antique - Egypte	1.0	0	0	1	0
+982	 	 	e	Voir: Archéologie, art antique - Grèce	1.0	0	0	1	0
+982	 	 	e	Voir: Archéologie, art antique - Kerma	1.0	0	0	1	0
+982	 	 	e	Voir: Archéologie, art antique - Koya	1.0	0	0	1	0
+982	 	 	e	Voir: Avusy	1.0	0	0	1	0
+982	 	 	e	Voir: Bachet-de-Pesay	1.0	0	0	1	0
+982	 	 	e	Voir: Belotte, La	2.0	0	0	1	0
+982	 	 	e	Voir: Bernex	2.0	0	0	1	0
+982	 	 	e	Voir: Bernex, Challoux	1.0	0	0	1	0
+982	 	 	e	Voir: Bernex, Crest d'Anières	2.0	0	0	1	0
+982	 	 	e	Voir: Bernex, En Saule	2.0	0	0	1	0
+982	 	 	e	Voir: Bossy	1.0	0	0	1	0
+982	 	 	e	Voir: Bourdigny	1.0	0	0	1	0
+982	 	 	e	Voir: Cara	1.0	0	0	1	0
+982	 	 	e	Voir: Caran	2.0	0	0	1	0
+982	 	 	e	Voir: Carre d'Aval	1.0	0	0	1	0
+982	 	 	e	Voir: Chapelle, La	2.0	0	0	1	0
+982	 	 	e	Voir: Châtelet, pont	2.0	0	0	1	0
+982	 	 	e	Voir: Chèvres	2.0	0	0	1	0
+982	 	 	e	Voir: Sculpteur de Fonseca	1.0	0	0	1	0
+982	 	 	e	Voir: Sionnet	2.0	0	0	1	0
+982	 	 	e	Voir: Sézegnin, Sur-le-Moulin	2.0	0	0	1	0
+982	 	 	e	Voir: Van Bloemen, Jan	1.0	0	0	1	0
+982	 	 	e	Voir: Versoix, bois de Mariamont	1.0	0	0	1	0
+982	 	 	e	Voir: Villette	1.0	0	0	1	0
+982	 	 	e	Voir: Vuillonnex	1.0	0	0	1	0
+982	 	 	e	[21st century]	3.0	0	0	1	0
+982	 	 	e	[ATLA]	2041.0	0	0	1	0
+982	 	 	e	[Abstracts]	4.0	0	0	1	0
+982	 	 	e	[Apologetic works]	3.0	0	0	1	0
+982	 	 	e	[Archival resources]	1.0	0	0	1	0
+982	 	 	e	[Art]	7.0	0	0	1	0
+982	 	 	e	[Bibliographies]	2.0	0	0	1	0
+982	 	 	e	[Bibliography]	57.0	0	0	1	0
+982	 	 	e	[Bigliography]	1.0	0	0	1	0
+982	 	 	e	[Bio-bibliography]	8.0	0	0	1	0
+982	 	 	e	[Planning]	18.0	0	0	1	0
+982	 	 	e	[Poetry]	3.0	0	0	1	0
+982	 	 	e	[Popular works]	12.0	0	0	1	0
+982	 	 	e	[Prayer books and devotions]	1.0	0	0	1	0
+982	 	 	e	[Prayer-books and devotions]	3.0	0	0	1	0
+982	 	 	e	[Prayers and devotions]	28.0	0	0	1	0
+982	 	 	e	[Quotations, maxims, etc.]	6.0	0	0	1	0
+982	 	 	e	[Quotations]	3.0	0	0	1	0
+982	 	 	e	[Registers]	3.0	0	0	1	0
+982	 	 	e	[Rules]	17.0	0	0	1	0
+982	 	 	e	[Sacred books]	1.0	0	0	1	0
+982	 	 	e	[Sermons]	45.0	0	0	1	0
+982	 	 	e	[Songs and music]	1.0	0	0	1	0
+982	 	 	e	[Sources]	100.0	0	0	1	0
+982	 	 	e	[Statistics]	5.0	0	0	1	0
+982	 	 	e	[Terminology]	3.0	0	0	1	0
+982	 	 	e	[Textbooks]	9.0	0	0	1	0
+982	 	 	e	[Texts]	29.0	0	0	1	0
+982	 	 	e	[Translations into English]	17.0	0	0	1	0
+982	 	 	e	[Translations into French]	60.0	0	0	1	0
+982	 	 	e	[Translations into German]	1.0	0	0	1	0
+982	 	 	e	[article de périodique]	111.0	0	0	1	0
+982	 	 	e	[brochure]	2.0	0	0	1	0
+982	 	 	e	[catalogue d'exposition]	5.0	0	0	1	0
+982	 	 	e	[compte rendu]	7.0	0	0	1	0
+982	 	 	e	[dictionnaire]	2.0	0	0	1	0
+982	 	 	e	[encyclopédie]	1.0	0	0	1	0
+982	 	 	e	[exercices] // [méthode]	1.0	0	0	1	0
+982	 	 	e	[inventaire électronique]	21.0	0	0	1	0
+982	 	 	e	[monographie]	931.0	0	0	1	0
+982	 	 	e	[périodique]	1.0	0	0	1	0
+982	 	 	e	[rapport]	3.0	0	0	1	0
+982	 	 	e	[sources]	1.0	0	0	1	0
+982	 	 	e	[série]	44.0	0	0	1	0
+982	 	 	e	[texte de conférence]	5.0	0	0	1	0
+982	 	 	e	[tiré à part]	4.0	0	0	1	0
+982	 	 	f	[tiré à part]	4.0	0	0	1	0
+982	 	 	f	Economic integration	1.0	0	0	1	0
+982	 	 	j	Economic integration	1.0	0	0	1	0
+982	 	 	j	BFLA 140341/E/1-14	1.0	0	0	1	0
+982	 	 	s	BFLA 140341/E/1-14	1.0	0	0	1	0
+982	 	 	s	WL 100 POU	1.0	0	0	1	0
+982	 	 	x	WL 100 POU	1.0	0	0	1	0
+982	 	 	x	History of doctrines	1.0	0	0	1	0
+982	 	 	x	ge/hei-/k	3.0	0	0	1	0
+982	 	 	x	ge/heid	1.0	0	0	1	0
+982	 	 	x	ge/ulan/l/2018/445	1.0	0	0	1	0
+982	 	 	x	ge/ulch/a/2017/124	1.0	0	0	1	0
+982	 	 	x	ge/ules/a/97/271/1-2	1.0	0	0	1	0
+982	 	 	x	ge/vbaa/d/2013/294099-30	1.0	0	0	1	0
+982	 	 	x	ge/vbaa/d/2014/334688-2	1.0	0	0	1	0
+982	 	 	x	ge/vbge/a/2008/17274.11	1.0	0	0	1	0
+982	 	 	x	ge/vbge/a/2009/111930.7	1.0	0	0	1	0
+982	 	 	x	ge/vbmu/a/2012/830	1.0	0	0	1	0
+982	 	 	x	ge/vbmu/a/2013/510	1.0	0	0	1	0
+982	 	 	x	ge/vbmu/a/2014/315	1.0	0	0	1	0
+982	 	 	x	ge/vbmu/d/2014/d17	1.0	0	0	1	0
+982	 	 	x	ge/vbpu/a/97/755	1.0	0	0	1	0
+982	2	 	x	ge/vbpu/a/97/755	1.0	1	0	1	0
+982	2	 	2	ge/vbpu/a/97/755	1.0	1	0	0	1
+982	2	 	2	cdu-geusst	1.0	1	0	0	0
+982	2	 	a	cdu-geusst	1.0	1	0	0	0
+982	2	 	a	528.9	1.0	1	0	0	0
+992	 	 	a	528.9	1.0	0	0	0	1
+992	 	 	1	528.9	1.0	0	0	1	0
+992	 	 	1	5	1.0	0	0	1	0
+992	 	 	1	cdu-gevcjb	3778.0	0	0	1	0
+992	 	 	1	ge-vbaa	341.0	0	0	1	0
+992	 	 	1	ge-vimv	109.0	0	0	1	0
+992	 	 	1	ge-vmhn	202.0	0	0	1	0
+992	 	 	2	ge-vmhn	202.0	0	0	1	0
+992	 	 	2	1	1.0	0	0	1	0
+992	 	 	2	7313	1.0	0	0	1	0
+992	 	 	2	cdu-gevcjb	2.0	0	0	1	0
+992	 	 	2	dew-gevbge	1.0	0	0	1	0
+992	 	 	2	pcdm	1.0	0	0	1	0
+992	 	 	2	re	1.0	0	0	1	0
+992	 	 	3	re	1.0	0	0	1	0
+992	 	 	3	5187	1.0	0	0	1	0
+992	 	 	9	5187	1.0	0	0	1	0
+992	 	 	9	VI 2 Grande-Bretagne ALBI	1.0	0	0	1	0
+992	 	 	9	VI 2 Grande-Bretagne BEFO	1.0	0	0	1	0
+992	 	 	F	VI 2 Grande-Bretagne BEFO	1.0	0	0	1	0
+992	 	 	F	QU 4 14/1 ex.1-2	1.0	0	0	1	0
+992	 	 	I	QU 4 14/1 ex.1-2	1.0	0	0	1	0
+992	 	 	I	[Part 1.]	1.0	0	0	1	0
+992	 	 	I	[Part 2.]	1.0	0	0	1	0
+992	 	 	I	[Reçu vol. 1, 3.]	1.0	0	0	1	0
+992	 	 	V	[Reçu vol. 1, 3.]	1.0	0	0	1	0
+992	 	 	V	I 2 Grande-Bretagne BEIE	1.0	0	0	1	0
+992	 	 	X	I 2 Grande-Bretagne BEIE	1.0	0	0	1	0
+992	 	 	X	ge/ulsa/d/08/176	1.0	0	0	1	0
+992	 	 	a	ge/ulsa/d/08/176	1.0	0	0	0	1
+992	 	 	a	'030 REY	1.0	0	0	0	1
+992	 	 	a	- 225/13	1.0	0	0	0	1
+992	 	 	a	...	10.0	0	0	0	1
+992	 	 	a	/2013/263298.1	1.0	0	0	0	1
+992	 	 	a	/BGE Btm 14842	1.0	0	0	0	1
+992	 	 	a	/BGE Ib 4622	1.0	0	0	0	1
+992	 	 	a	0. 674 AASA	1.0	0	0	0	1
+992	 	 	a	0.1 AVEN	1.0	0	0	0	1
+992	 	 	a	0.1 BALL	1.0	0	0	0	1
+992	 	 	a	0.1 BARB	1.0	0	0	0	1
+992	 	 	a	0.1 BOHE	1.0	0	0	0	1
+992	 	 	a	wcc DM2001/10	1.0	0	0	0	1
+992	 	 	a	ËT AF 1450	1.0	0	0	0	1
+992	 	 	a	ÏHR LBR 665	1.0	0	0	0	1
+992	 	 	a	àa BGE Sg 2251	1.0	0	0	0	1
+992	 	 	a	القاهرة	1.0	0	0	0	1
+992	 	 	a	حب الالهي في التصوف الاسلامي	1.0	0	0	0	1
+992	 	 	a	شعراء الرابطة القلمية	1.0	0	0	0	1
+992	 	 	a	‬BAA 1375	1.0	0	0	0	1
+992	 	 	a	‬BAA 1738	1.0	0	0	0	1
+992	 	 	a	‬BAA BR 14417	1.0	0	0	0	1
+992	 	 	a	‬BAA BR 14473	1.0	0	0	0	1
+992	 	 	a	‬BAA BR 14525	1.0	0	0	0	1
+992	 	 	a	‬BAA BR 14622	1.0	0	0	0	1
+992	 	 	a	‬BAA BR 14743	1.0	0	0	0	1
+992	 	 	a	‬BAA BR Q 7515	1.0	0	0	0	1
+992	 	 	a	‬BAA BR Q 7634	1.0	0	0	0	1
+992	 	 	a	‬BAA Q 543/1-2	1.0	0	0	0	1
+992	 	 	a	‬BAA Q 693	1.0	0	0	0	1
+992	 	 	a	‬BAA Q 847	1.0	0	0	0	1
+992	 	 	a	‬DBUH 729	1.0	0	0	0	1
+992	 	 	a	‬‬159.955 (07) GOL.3	1.0	0	0	0	1
+992	 	 	b	‬‬159.955 (07) GOL.3	1.0	0	0	1	0
+992	 	 	b	(une histoire de pauvreté et de solidarité) : [30 ans d'aventures	1.0	0	0	1	0
+992	 	 	b	2009/01	1.0	0	0	1	0
+992	 	 	b	2009/02	1.0	0	0	1	0
+992	 	 	b	2017/12	1.0	0	0	1	0
+992	 	 	b	P. Corrard,	1.0	0	0	1	0
+992	 	 	c	P. Corrard,	1.0	0	0	1	0
+992	 	 	c	1922	1.0	0	0	1	0
+992	 	 	c	7	1.0	0	0	1	0
+992	 	 	c	BAA AD 3544	1.0	0	0	1	0
+992	 	 	c	BAA BR 9696	1.0	0	0	1	0
+992	 	 	l	BAA BR 9696	1.0	0	0	1	0
+992	 	 	l	bonétat	2.0	0	0	1	0
+992	 	 	l	bonétatBGE Taa 2402	1.0	0	0	1	0
+992	 	 	p	bonétatBGE Taa 2402	1.0	0	0	1	0
+992	 	 	p	ANTA 356	1.0	0	0	1	0
+992	 	 	p	BA BFLA 102553	1.0	0	0	1	0
+992	 	 	p	BAA AA 136	1.0	0	0	1	0
+992	 	 	p	BAA AA 303	1.0	0	0	1	0
+992	 	 	p	BAA AA 331	1.0	0	0	1	0
+992	 	 	p	BAA AA 58	1.0	0	0	1	0
+992	 	 	p	BAA AA Q 241	2.0	0	0	1	0
+992	 	 	p	BAA AC 96/1	1.0	0	0	1	0
+992	 	 	p	BAA AC 96/2	1.0	0	0	1	0
+992	 	 	p	BAA AC 96/3	1.0	0	0	1	0
+992	 	 	p	BAA AC 96/4	1.0	0	0	1	0
+992	 	 	p	BAA AE 348/7	1.0	0	0	1	0
+992	 	 	p	BAA AE 559	1.0	0	0	1	0
+992	 	 	p	BAA AE 560	1.0	0	0	1	0
+992	 	 	p	BAA AE Q 110/1896	1.0	0	0	1	0
+992	 	 	p	BAA CA Q 14/11	1.0	0	0	1	0
+992	 	 	p	BAA CA Q 14/146	1.0	0	0	1	0
+992	 	 	p	BAA CA Q 16/106	1.0	0	0	1	0
+992	 	 	p	BFLA 97381	1.0	0	0	1	0
+992	 	 	p	BFLB 1049	1.0	0	0	1	0
+992	 	 	p	BFLB 2347	1.0	0	0	1	0
+992	 	 	p	BFLB 2952	1.0	0	0	1	0
+992	 	 	p	BFLB 3574	1.0	0	0	1	0
+992	 	 	p	BFLB 4716	1.0	0	0	1	0
+992	 	 	p	BFLB 4938	1.0	0	0	1	0
+992	 	 	p	BFLB 8074	1.0	0	0	1	0
+992	 	 	p	BFLP 59/[8]	1.0	0	0	1	0
+992	 	 	p	BFLQG 173	1.0	0	0	1	0
+992	 	 	p	BFLQG 73	1.0	0	0	1	0
+992	 	 	p	BOTA 1024	1.0	0	0	1	0
+992	 	 	p	BOTA 1187	1.0	0	0	1	0
+992	 	 	p	BOTA 1350	1.0	0	0	1	0
+992	 	 	p	BOTA 1490	1.0	0	0	1	0
+992	 	 	p	BOTA 1705	1.0	0	0	1	0
+992	 	 	p	BOTA 1812	1.0	0	0	1	0
+992	 	 	p	BOTA 1843	1.0	0	0	1	0
+992	 	 	p	BOTA 1889	1.0	0	0	1	0
+992	 	 	p	BOTA 1924/1(2)	1.0	0	0	1	0
+992	 	 	p	BOTA 2274	1.0	0	0	1	0
+992	 	 	p	BOTA 2275	1.0	0	0	1	0
+992	 	 	p	BOTA 2625	1.0	0	0	1	0
+992	 	 	p	BOTA 268	1.0	0	0	1	0
+992	 	 	p	BOTA 2903	1.0	0	0	1	0
+992	 	 	p	BOTA 3068	1.0	0	0	1	0
+992	 	 	p	BOTA 3075	1.0	0	0	1	0
+992	 	 	p	BOTA 3229	1.0	0	0	1	0
+992	 	 	p	BOTA 3244	1.0	0	0	1	0
+992	 	 	p	BOTA 3757/4(10A-10B)	1.0	0	0	1	0
+992	 	 	p	BOTA 376	1.0	0	0	1	0
+992	 	 	p	BOTA 3855	1.0	0	0	1	0
+992	 	 	p	BOTA 42	1.0	0	0	1	0
+992	 	 	p	BOTA 4267	1.0	0	0	1	0
+992	 	 	p	BOTA 4409	1.0	0	0	1	0
+992	 	 	p	BOTA 4634	1.0	0	0	1	0
+992	 	 	p	SESB 1950	1.0	0	0	1	0
+992	 	 	p	SESB 3346	1.0	0	0	1	0
+992	 	 	p	SESP 774	1.0	0	0	1	0
+992	 	 	q	SESP 774	1.0	0	0	1	0
+992	 	 	q	ge-vmhn	1.0	0	0	1	0
+992	 	 	t	ge-vmhn	1.0	0	0	1	0
+992	 	 	t	0308	3.0	0	0	1	0
+992	 	 	t	0401	402.0	0	0	1	0
+992	 	 	t	0502	5.0	0	0	1	0
+992	 	 	t	gt4	1.0	0	0	1	0
+992	 	 	t	n2	5.0	0	0	1	0
+992	 	 	t	nex	205.0	0	0	1	0
+992	 	 	t	nv	261.0	0	0	1	0
+992	 	 	v	nv	261.0	0	0	1	0
+992	 	 	v	45	1.0	0	0	1	0
+992	 	 	z	‬	1.0	0	0	1	0
+992	 	 	z	2	3.0	0	0	1	0

@@ -1,0 +1,1000 @@
+902  			
+	0		
+		2	1
+		6	1
+	1		
+		4	1
+		55	1
+		998/03	1
+		998/07	1
+		998/10	1
+		999/09	1
+	2		
+		004/04	1
+		006/01	1
+		006/11	2
+		007/02	1
+		007/10	1
+		fondsdubois	479
+		fondsduboisd	1
+		fondsdunand	197
+		fondskasser	240
+		fondslivelihood	140
+		fondsrappard	23
+		fondssouvarine	3563
+		ss	1
+		t020	1
+		t120	1
+		thème	2
+		x	3
+		xx	3
+		§	1
+		§00	1
+		§140	1
+		§5	1
+	d		
+		05	1
+		100	1
+		1998/09	1
+		2001/11	1
+		2007/05	1
+		2009/04	1
+		2011/04	1
+		2012	1
+		2016/02	1
+		300	1
+		35	1
+		503	1
+		515	1
+		950	1
+		don ambassade japonais	1
+		retrocatalogage	4
+		rétrocatalogage	1
+	e		
+		70	1
+	f		
+		2002/09	1
+	g		
+		2010/03	1
+	l		
+		a gevbge	1
+		ar010	1
+	n		
+		1	1
+		10	1
+		100	1
+		1000	1
+		1001	1
+		1002	1
+		1003	1
+		1004	1
+		1005	1
+		1006	1
+		1007	1
+		1008	1
+		1009	1
+		101	2
+		1010	1
+		1011	1
+		1012	1
+		1013	1
+		1014	1
+		1015	1
+		1016	1
+		1017	1
+		1018	1
+		1019	1
+		102	1
+		1020	1
+		1021	1
+		1022	1
+		1023	1
+		1024	1
+	v		
+		03	1
+		10	1
+		1998/10	1
+		1998/11	1
+		1999/02	1
+		1999/11	1
+		2000/05	1
+		2000/07	1
+		2000/09	1
+		2014/07	1
+		305	1
+		320	1
+		330	1
+		40020	2
+		516	1
+		930	1
+		c 01	1
+	x		
+		01	1
+		010	1
+		03/2000	1
+		04	1
+		04/2000	1
+		05	1
+		09	1
+		090	1
+		10	1
+		1998/01	2
+		1998/12	1
+		1998/4	1
+		1999/03	1
+		1999/05	1
+		1999/11	1
+		2000/03	1
+		2000/05	5
+		2000/06	1
+		ge/vbge/a/2008/100	1
+		ge/vbge/a/2008/20165.14	1
+		ge/vbge/a/2009/140	1
+		ge/vbge/a/2011/189848.4	1
+		ge/vbge/d/2012/16	1
+		ge/vbge/d/2014/88	1
+		ge/vbge/d/72/258	1
+		ge/vbge/d/75/187	1
+		ge/vbge/l/dat	1
+		ge/veth/a/9/2009	1
+		ge/vmar/d/2008/	1
+	z		
+		1	4
+		503	3
+		504	2
+		515	1
+		800	1
+		A Joyc 8*GLAS Thi cof	1
+9021 			
+	a		
+		gedoc	1
+932  			
+	a		
+		0705321	1
+		1064024494	1
+		1064030131	1
+		1064038756	1
+		1064048279	1
+		1064078845	1
+		1064093839	1
+		1064111378	1
+		1064126637	1
+		BGECIG_CG/38g_02.jpg	1
+		BGECIG_CG/38g_04.jpg	1
+		BGECIG_CG/38g_06_a.jpg	1
+		BGECIG_CG/38g_08.jpg	1
+		BGECIG_CG/38g_08_02.jpg	1
+		BGECIG_CG/38g_08_a.jpg	1
+		BGECIG_CG/38g_08_b.jpg	1
+		BGECIG_CG/38g_08_ww.jpg	1
+		BGECIG_CG/38g_09_03.jpg	1
+		BGECIG_CG/38g_09_04.jpg	1
+		BGECIG_CG/38g_09_2-2.jpg	1
+		BGECIG_CG/38g_09_2-3.jpg	1
+		BGECIG_CG/38g_09_2.jpg	1
+		BGECIG_CG/38g_09_5-2.jpg	1
+		BGECIG_CG/38g_09_5-3.jpg	1
+		gevcjb481096	1
+		gevcjb481098	1
+		gevcjb481100	1
+		képszám	2
+		memoires servir l'histoire cardinal 1753	1
+		necfbv	2
+		recatge04	1
+		recatge05	1
+		vgevbaa130098	1
+	x		
+		ge/vbmu/a/95/20	1
+932 0			
+	a		
+		gevbaa060261	1
+		gevbge0760258	1
+9321 			
+	a		
+		gevcjb300821	1
+982  			
+	2		
+		004.678 COL	1
+		005.133 LAT MAGa	1
+		005.2 BOU	1
+		005.2 ESP	1
+		020.14 COM	1
+		025.32 ASSf fre	1
+		1.8*GOI OTH	1
+		369 MAR	1
+		398.2 BET	1
+		4/Gén*ROS	1
+		519.5 HUC	1
+		519.5 HUS	1
+		519.5 RAB	1
+		530.1	1
+		530.1 LEO	1
+		650.1 MONb	1
+		658.314 5 SZC	1
+		658.406 GOV	1
+		7.071 GILL/5 (DVD)	1
+		7606.1	1
+		9/T*VIL SAN	1
+		959	1
+		959 HEIA 82039	1
+		982	1
+		Af LIB per gdl	1
+		Af MAN and mei	1
+		Ai por lrd	1
+		BAA AA F 48/64	1
+		BAA JK F 52/REL/2	1
+		BE 119 (4)	1
+		CA/D 67 g BROX 2010	1
+		CDU-GEUIEG	1
+		CDU-SYS-GEUIEG	2
+		D.4.0 QUI Ed.2	1
+		DEW-MEUM	1
+		DVD-1411	1
+		Db D lan ris	1
+		Dn F not ddl	1
+		EG:Coll*MIFAO 79	1
+		EG:Coll*MIFAO 80	1
+		EG:Coll*OIP Excav. Medinet	1
+		EG:Coll*OIP Khonsu	1
+		EG:Coll*OIP Khonsu 1	1
+		EG:Coll*PAVN	1
+		EG:Coll*PPYE 5	1
+		EG:Coll*PTT	2
+		GE-ULCH	1
+		Ge-ulsh	1
+		HEIBR 2009	1
+		HEIBR 301+1	1
+		Hf 1 I BARB lib nqt	1
+		I.2.4 HAM	1
+		M2 SOLA Lar	1
+		SM	1
+		VI 2 Fa BONI	1
+		VI 2 Grande-Bretagne AGES	1
+		VII 1d BUSI	1
+		WY 11 BOY	1
+		acm-geucui	12306
+		acm-geuicui	1
+		air	43
+		ams	16
+		ams-geudbu	1
+		ams-geussm	26601
+		ams-geussm 01.20/523	1
+		ams-geusssm	1
+		bibvs	1
+		cd-geussc	1
+		cd-sys-geussc	2
+		cdiu-geufpe	1
+		cdu geufpe	25
+		cdu geulja	1
+		cdu geussc	3
+		cdu- geufpe	1
+		cdu--geuieg	1
+		cdu-nencm	1
+		cdu-neubfl-il	1
+		cdu-sys-gehei	34701
+		cdu-sys-geueig	4
+		cdu-sys-geufpe	1
+		cdu-sys-geuieg	21734
+		cdu-sys-geuieg 323.2	1
+		cdu-sys-geusc	2
+		cdu-sys-geuscc	1
+		cdu-sys-geussa	4
+		nlm-geucds	6372
+		nlm-geucmu	12342
+		nlm-geuhim	16461
+		nlm-geuhim BJ 1-2195 APP	1
+		nlm-geuhim QL 731 49MA V1 HIST	1
+		pcdm	15009
+		pcdm 3.35 PERG	1
+		pcdm-sys	15007
+		piaget	1306
+		pscm	4
+		twse	309230
+		vs-part	1
+		wcccsh	1
+		wccsh	124242
+	A		
+		341.12	1
+	a		
+		"bible"	11
+		"coran"	10
+		&/T*VEG CAR	1
+		&/T*VEG CAR*ORO DIA	1
+		(012) TIT(C)	1
+		(013)947.085 RES	1
+		(016) (094.2) MYE	1
+		(016)043.5 DOCT 1945-70	1
+		(016)043.5 DOCT 1971-75	1
+		(016)043.5 UNI	1
+		(016)087.7 (GB) TEM	1
+		(016)087.7 (GB) VOG	1
+		(016)325.254 KRA	1
+		(016)327 ATLAN	1
+		(016)335 BIBL	1
+		(016)335 MOU	1
+		(016)335.55 BOO	1
+		(016)335.55 BOO 2e édition	1
+		(016)335.55 MAR	1
+		(016)947 GUI 5	1
+		(016)949.7 YUG	1
+		(016)95/96 POL	1
+		(016)951 CAT	1
+		(016)951 ESS	1
+		(016)951 MOD	1
+		(016)952 CAT	1
+		(016)952 JAP	1
+		(016)954 BIB	1
+		(016)956 ARA	1
+		(016)956.1 TUR	1
+		(016)956.92 LAB	1
+		(016)96 POL	1
+		(016)966 SKU	1
+		(03)	1
+		(03)003.083 INT 2e édition	1
+		(03)32 DIC	1
+		(03)323.15 CAR	1
+		(03)327 THE	1
+		(03)335 DIC	1
+		(03)335 RAP	1
+		(03)335 SOC	1
+		(03)335 VER	1
+		(03)335.55 DIC	1
+		(03)338.92 HOM 3e édition	1
+		(03)341 DIZ	1
+		(03)341 ENG	1
+		(03)341 WOE	1
+		(03)341.76 ELE	1
+		(03)355 DIC(D)	1
+		(03)355 HAN	1
+		(03)355.48 DICT(D)	1
+		(03)5	7
+		(03)5/6	2
+		(03)502	1
+		(03)53/54	1
+		(03)54	1
+		(03)548	1
+		(03)549	2
+		(03)55	28
+		évolution	180
+		évolution des espèces	2
+		être imaginaire	2
+		île	3
+		îles	58
+		îles du Pacifique Sud	56
+		ĖFR/G 7*dne	1
+		ĖRD/M 7*rad	1
+		ĖRE/N 7*soč	1
+		ŠČE/D 8*MAK	1
+		ŠČE/D 8*mic	1
+		ŠČE/D 8*sal	1
+		Ţuţea, Petre	1
+		Α11 * PAPA	1
+		Α3 * APOT	1
+		Α3 * Hist	1
+		Α5 * KARD	1
+		ΑC:2*ADA	1
+		Ε2 * ACTES	1
+	b		
+		576.6 Man	1
+		L	1
+		M1 BROM (7/8) Rog	1
+		W 26.5 SEB	1
+	c		
+		00	1
+		302	1
+		32	2
+		539 BLA	1
+		65	1
+		WZ 330 BOG	1
+	d		
+		(1981)	1
+		(Audrey Isabel)	1
+		(East)	1
+		(Liturgy)	2
+		1200-586 B.C.	1
+		12th cent.	1
+		12th century	1
+		1328-1600	1
+		13th century	1
+		1485-	1
+		14th century	1
+		1536-1603	1
+		1589-1789	1
+		15th century	2
+		1600-1800	244
+		16th century	119
+		1760-1820	1
+		17th century	25
+		1800-1850	93
+		1820-1830	1
+		1850-1900	288
+		1865-1918	2
+		1989-	4
+		1989-1990	1
+		1991-	1
+		1991-1998	34
+		1992-1994	1
+		1992-1995	1
+		1993	4
+		1993-	6
+		1994-	3
+		1995-2005	1
+		1997-	1
+		1998-	1
+		1998-2005	2
+		1998-2006	4
+		19th century	106
+		20th Century	8
+		20th century	702
+		21st century	84
+		21th century	2
+		30-1600	237
+		30-325	8
+		500th anniversary of the arrival of C. Columbus	26
+		50th anniversary	37
+		600-1500	2
+		6th century	1
+		879-880	1
+		AIDS (Disease)	1
+		Abraham	13
+		Accents and accentuation	1
+		Accra	3
+		Acts	2
+		Acts I-XII	1
+		Anglican theology	10
+		Angola	7
+		Animals	2
+		Anointing	1
+		Anthropological aspects	3
+		Anthropology	27
+		Antichrist	1
+		Antioch	2
+		Antiochene rite	1
+		Antiquities	21
+		Apocalyptic	10
+		Apostolic witness	4
+		Apostolicity	11
+		Apparitions and miracles	1
+		Appointment, call, and election	3
+		Appreciation	3
+		Arab countries	8
+		Arabia, Southern	1
+		Arabic	5
+		Archeology	2
+		Archives	16
+		Argentina	29
+		Armenian	12
+		Armenian Church	9
+		Arnhem Land (N.T.)	2
+		Art	1
+		Artificial	8
+		Arts	1
+		As leftist organization	5
+		Ascension	1
+		Asia	690
+		Asia-Pacific region	13
+		Asian	2
+		Assassination attempt, 1944 (July 20)	1
+		Assumption	2
+		Athos	2
+		Atlas	4
+		Atonement	7
+		Atrocities	2
+		Attitudes	1
+		Attitudes toward Israel	2
+		Brahmanism	1
+		Brazil	129
+		Bread	1
+		British	2
+		British Council of Churches	1
+		Buddhism	49
+		Buddhist interpretations	2
+		Buildings	3
+		Bulgaria	1
+		Bulgarian	6
+		Bund der Evangelischen Kirchen in der DDR	1
+		Burma	3
+		Burundi	2
+		Byzantine	7
+		Byzantine Empire	5
+		Byzantine rite	6
+		Byzantine rite, Greek	1
+		Byzantine rite, Ruthenian	1
+		Compassion	1
+		Computer network resources	2
+		Computer networks	1
+		Comunità di Sant'Egidio	3
+		Concentration camps	1
+		Concordances	37
+		Confession of faith	1
+		Confiscations and contributions	2
+		Conflict	14
+		Conflict resolution	1
+		Confucianism	4
+		Congo (Brazzaville)	3
+		Congo (Democratic Republic)	55
+		Congregation for the Doctrine of the Faith	6
+		Congregational	1
+		Congregational churches	4
+		Congresses	3
+		Conscript labor	1
+		Cross	4
+		Crucifixion	19
+		Cuba	14
+		Cult	2
+		Cultural assimilation	4
+		Cultural policy	1
+		Culture	10
+		Curricula	1
+		Curse	1
+		Customs and practices	5
+		Cwme	2
+		Cyprus	3
+		Czech Republic	6
+		Czechoslovakia	3
+		Côte d'Ivoire	8
+		Českobratrská církev evangelická	1
+		Dagbani	1
+		Daily life of ministers	5
+		Daniel	21
+		Theravada	2
+		Theravāda Buddhism	4
+		Thessalonians	8
+		Thessalonians 1	9
+		Thessalonians 2	4
+		Third Reich	105
+		Third World	42
+		Thuringia	2
+		Thônex	5
+		Thônex, Moillesulaz.	1
+		Thônex, Pierre-à-Bochet.	1
+		Vellore	1
+		Veneration	1
+		Venezuela
+		Zechariah	10
+		Zen Buddhism	3
+		Zephaniah	9
+		Zimbabwe	21
+		Zulu	1
+		Zurich	2
+		[Commentaries]	6
+		[Congresses]	1
+		clarinette, violon, piano	1
+		interracial	1
+		percussionnistes	1
+		theological	1
+	e		
+		1951-2000	2
+		1975-2025	1
+		20th century	1
+		Biblical teaching	3
+		Bibliography	1
+		Bishops	7
+		Comparative studies	2
+		Criticism, interpretation, etc.	1
+		Directories	1
+		Economic conditions	1
+		History [LCSH]	2
+		LCSH]	110
+		Philosophy	1
+		Politics and government	1
+		Social conditions	1
+		Study and teaching	1
+		Voir aussi: Archéologie, art antique - Rome	1
+		Voir aussi: Edifices publics-maisons privées - Maison Tavel	1
+		Voir: Adam (de Baalet)	1
+		Voir: Anières, Bassy	1
+		Voir: Archéologie, art antique - Asie mineure	1
+		Voir: Archéologie, art antique - Egypte	1
+		Voir: Archéologie, art antique - Grèce	1
+		Voir: Archéologie, art antique - Kerma	1
+		Voir: Archéologie, art antique - Koya	1
+		Voir: Avusy	1
+		Voir: Bachet-de-Pesay	1
+		Voir: Belotte, La	2
+		Voir: Bernex	2
+		Voir: Bernex, Challoux	1
+		Voir: Bernex, Crest d'Anières	2
+		Voir: Bernex, En Saule	2
+		Voir: Bossy	1
+		Voir: Bourdigny	1
+		Voir: Cara	1
+		Voir: Caran	2
+		Voir: Carre d'Aval	1
+		Voir: Chapelle, La	2
+		Voir: Châtelet, pont	2
+		Voir: Chèvres	2
+		Voir: Sculpteur de Fonseca	1
+		Voir: Sionnet	2
+		Voir: Sézegnin, Sur-le-Moulin	2
+		Voir: Van Bloemen, Jan	1
+		Voir: Versoix, bois de Mariamont	1
+		Voir: Villette	1
+		Voir: Vuillonnex	1
+		[21st century]	3
+		[ATLA]	2041
+		[Abstracts]	4
+		[Apologetic works]	3
+		[Archival resources]	1
+		[Art]	7
+		[Bibliographies]	2
+		[Bibliography]	57
+		[Bigliography]	1
+		[Bio-bibliography]	8
+		[Planning]	18
+		[Poetry]	3
+		[Popular works]	12
+		[Prayer books and devotions]	1
+		[Prayer-books and devotions]	3
+		[Prayers and devotions]	28
+		[Quotations, maxims, etc.]	6
+		[Quotations]	3
+		[Registers]	3
+		[Rules]	17
+		[Sacred books]	1
+		[Sermons]	45
+		[Songs and music]	1
+		[Sources]	100
+		[Statistics]	5
+		[Terminology]	3
+		[Textbooks]	9
+		[Texts]	29
+		[Translations into English]	17
+		[Translations into French]	60
+		[Translations into German]	1
+		[article de périodique]	111
+		[brochure]	2
+		[catalogue d'exposition]	5
+		[compte rendu]	7
+		[dictionnaire]	2
+		[encyclopédie]	1
+		[exercices] // [méthode]	1
+		[inventaire électronique]	21
+		[monographie]	931
+		[périodique]	1
+		[rapport]	3
+		[sources]	1
+		[série]	44
+		[texte de conférence]	5
+		[tiré à part]	4
+	f		
+		Economic integration	1
+	j		
+		BFLA 140341/E/1-14	1
+	s		
+		WL 100 POU	1
+	x		
+		History of doctrines	1
+		ge/hei-/k	3
+		ge/heid	1
+		ge/ulan/l/2018/445	1
+		ge/ulch/a/2017/124	1
+		ge/ules/a/97/271/1-2	1
+		ge/vbaa/d/2013/294099-30	1
+		ge/vbaa/d/2014/334688-2	1
+		ge/vbge/a/2008/17274.11	1
+		ge/vbge/a/2009/111930.7	1
+		ge/vbmu/a/2012/830	1
+		ge/vbmu/a/2013/510	1
+		ge/vbmu/a/2014/315	1
+		ge/vbmu/d/2014/d17	1
+		ge/vbpu/a/97/755	1
+9822 			
+	2		
+		cdu-geusst	1
+	a		
+		528.9	1
+992  			
+	1		
+		5	1
+		cdu-gevcjb	3778
+		ge-vbaa	341
+		ge-vimv	109
+		ge-vmhn	202
+	2		
+		1	1
+		7313	1
+		cdu-gevcjb	2
+		dew-gevbge	1
+		pcdm	1
+		re	1
+	3		
+		5187	1
+	9		
+		VI 2 Grande-Bretagne ALBI	1
+		VI 2 Grande-Bretagne BEFO	1
+	F		
+		QU 4 14/1 ex.1-2	1
+	I		
+		[Part 1.]	1
+		[Part 2.]	1
+		[Reçu vol. 1, 3.]	1
+	V		
+		I 2 Grande-Bretagne BEIE	1
+	X		
+		ge/ulsa/d/08/176	1
+	a		
+		'030 REY	1
+		-	38571
+		- 225/13	1
+		--	10
+		---	12
+		----	3
+		...	10
+		/2013/263298.1	1
+		/BGE Btm 14842	1
+		/BGE Ib 4622	1
+		0. 674 AASA	1
+		0.1 AVEN	1
+		0.1 BALL	1
+		0.1 BARB	1
+		0.1 BOHE	1
+		v	1
+		wcc DM2001/10	1
+		wccarchives	1
+		x	1
+		y-	1
+		ËT AF 1450	1
+		ÏHR LBR 665	1
+		àa BGE Sg 2251	1
+		القاهرة	1
+		حب الالهي في التصوف الاسلامي	1
+		شعراء الرابطة القلمية	1
+		‬BAA 1375	1
+		‬BAA 1738	1
+		‬BAA BR 14417	1
+		‬BAA BR 14473	1
+		‬BAA BR 14525	1
+		‬BAA BR 14622	1
+		‬BAA BR 14743	1
+		‬BAA BR Q 7515	1
+		‬BAA BR Q 7634	1
+		‬BAA Q 543/1-2	1
+		‬BAA Q 693	1
+		‬BAA Q 847	1
+		‬DBUH 729	1
+		‬‬159.955 (07) GOL.3	1
+	b		
+		(une histoire de pauvreté et de solidarité) : [30 ans d'aventures	1
+		2009/01	1
+		2009/02	1
+		2017/12	1
+		P. Corrard,	1
+	c		
+		1922	1
+		7	1
+		BAA AD 3544	1
+		BAA BR 9696	1
+	l		
+		bonétat	2
+		bonétatBGE Taa 2402	1
+	p		
+		ANTA 356	1
+		BA BFLA 102553	1
+		BAA AA 136	1
+		BAA AA 303	1
+		BAA AA 331	1
+		BAA AA 58	1
+		BAA AA Q 241	2
+		BAA AC 96/1	1
+		BAA AC 96/2	1
+		BAA AC 96/3	1
+		BAA AC 96/4	1
+		BAA AE 348/7	1
+		BAA AE 559	1
+		BAA AE 560	1
+		BAA AE Q 110/1896	1
+		BAA CA Q 14/11	1
+		BAA CA Q 14/146	1
+		BAA CA Q 16/106	1
+		BFLA 97381	1
+		BFLB 1049	1
+		BFLB 2347	1
+		BFLB 2952	1
+		BFLB 3574	1
+		BFLB 4716	1
+		BFLB 4938	1
+		BFLB 8074	1
+		BFLP 59/[8]	1
+		BFLQG 173	1
+		BFLQG 73	1
+		BOTA 1024	1
+		BOTA 1187	1
+		BOTA 1350	1
+		BOTA 1490	1
+		BOTA 1705	1
+		BOTA 1812	1
+		BOTA 1843	1
+		BOTA 1889	1
+		BOTA 1924/1(2)	1
+		BOTA 2274	1
+		BOTA 2275	1
+		BOTA 2625	1
+		BOTA 268	1
+		BOTA 2903	1
+		BOTA 3068	1
+		BOTA 3075	1
+		BOTA 3229	1
+		BOTA 3244	1
+		BOTA 3757/4(10A-10B)	1
+		BOTA 376	1
+		BOTA 3855	1
+		BOTA 42	1
+		BOTA 4267	1
+		BOTA 4409	1
+		BOTA 4634	1
+		SESB 1950	1
+		SESB 3346	1
+		SESP 774	1
+	q		
+		ge-vmhn	1
+	t		
+		0308	3
+		0401	402
+		0502	5
+		gt4	1
+		n2	5
+		nex	205
+		nv	261
+	v		
+		45	1
+	x		
+		#	2
+		$ ge/ulch/a/2000/270	1
+		-	1
+		/ ge/hei-/a/44	1
+		/ ge/vmar/a/2006/82644	1
+		/a/15/2427	1
+		/a/86/193	1
+		/cdu-geulja/a/2016/112	1
+		/cdu-ulja/a/2016/113	1
+		/ge-usob/d/789/66	1
+		/ge/uieg/a/1998/225	1
+		/ge/uieg/d/1997/170	1
+		/ge/uihr 138	1
+		/ge/ulch/2017/122	1
+		/ge/ulch/d/112	1
+		/ge/ulch/d/2013/36	1
+		/ge/ules/a/00/128	1
+		/ge/ules/a/00/129	1
+		/ge/ules/a/00/132	1
+		/ge/ules/a/00/133	1
+		/ge/ules/a/00/134	1
+		/ge/ules/a/00/135	1
+		/ge/ules/a/99/889/4	1
+		/ge/ules/a/99/889/5	1
+		/ge/ules/a/99/889/7	1
+		/ge/ules/a/99/894	1
+		/ge/ules/a/99/907	1
+		/ge/ules/a/99/921	1
+		/ge/umed/x	1
+		/ge/usba/a/1989/54	1
+		/ge/usba/a/77/1986	1
+		/ge/usba/x/scyung	1
+		/ge/usob/	1
+		/ge/ussc/x	1
+		/ge/usst/a	1
+		/ge/usst/e	1
+		/ge/vbaa/a/2003/59617	1
+		/ge/vbaa/a/2017/456865-1	1
+		/ge/vbaa/a/74/1202	1
+		/ge/vbaa/a/80/1824	1
+		/ge/vbaa/a/97/1014	1
+		/ge/vbaa/a/97/981	1
+		/ge/vbaa/d/2017/458054-1	1
+		/ge/vbaa/d/97/3839	1
+		/ge/vbge/a/12/1945	1
+		/ge/vbge/a/49/1753	1
+		/ge/vbge/a/68/373	1
+		/ge/vbge/a/72/2329	1
+		/ge/vbge/a/78/1369	1
+		/ge/vbge/a/79/860	1
+		/ge/vbge/a/83/3402	1
+		/ge/vbge/a/96/7123	1
+		/ge/vbge/a/97/2240	1
+		/ge/vbge/a/A2011/54	1
+		/ge/vbge/d/	1
+		/ge/vbge/d/2013/38	1
+		/ge/vbmu/a/94/261	1
+		/ge/vbmu/d/96/d32/115	1
+		/ge/vcjb/a/12/248543-5	1
+		/ge/vcjb/x	1
+		/ge/veth/d/12/2008	1
+		/ge/veth/d/340/1997	1
+		/ge/veth/e/2/2005	1
+		/ge/vmar/a/2008/18404-3	1
+		/ge/vmar/a/2013/272757-6	1
+		/gevbaa/a/2018/458886-11	1
+		/gevbaa/a/2018/469588-28	1
+		/gevbaa/d/75/3085	1
+		/gevbaa/w/13.922	1
+		/gevmar/2012/234717-5	1
+		/gevmhn/a/580	1
+		/gvbpu/d/97/55	1
+		/umed/x	2
+		/vbaa/a/2002/7008	1
+		001.1094 VOIX	1
+		1164/1 ge/vbge/a/43/1876	1
+		159660 ge/ulgm/a/2003/81	1
+		17579	1
+		17599	1
+		188317 ge/ulhi/a/06/50	1
+		189177 ge/ules/a/04/391	1
+		191733	1
+		194608 ge/ulgm/a/2006/183	1
+		1996/167	1
+		1997/214	1
+		2002/1478	1
+		2003/69837	1
+		2007/179	1
+		2009/06	1
+		2014/318868-4	1
+		24354	1
+		25983	1
+		25996	1
+		26229	1
+		2767	1
+		2811	1
+		32	1
+		320(494) HEIA 1739	1
+		4954	1
+		50/1920	1
+		6/Gén*LOP BUE	1
+		601 GARC	1
+		6691 ge/vbge/l/99	1
+		714/E/4	1
+		792 ge/vbge/d/86/433	1
+		799 ge/vbge/d/86/433	1
+		809 (1) ge/vbge/d/86/433	1
+		8169 ge/vbge/a/2018/463757.8	1
+		862	1
+		BD6580	1
+		DonDSMPhistoriqueBelle-Idée2017	1
+		FAT 835 ge/vbge/d/72/406	1
+		FH3412	1
+		FH9172	1
+		FH9174	1
+		FLs 43421	1
+		Fls 1395	1
+		Fls 1419 w	1
+		Flt 85044	1
+		GE/VBAA/A/01/7015	1
+		GE/VBAA/A/2000/3608	1
+		GE/VBAA/X/2014/310711-1	1
+		Ge/ulch/a/2000/36	1
+		Ge/ussp/a/21598	1
+		Géol. Périod. SUI 59	1
+		Ref 280.23 C737o 1st ser. no.33-52	1
+		SESA 1771/1	1
+		WCC DB1987/2	1
+		WCC DB1998/10	1
+		Zt 8339/9	1
+		[transféré sous la cote bfla 10109.]	1
+		a/18/471654-3	1
+		a/1974/143	1
+		a/96/949	1
+		be/vbge/d/2002/325	1
+		beaux-arts	1
+		bge/ulit/a/15/166	1
+		bge/ulit/a/15/470	1
+		bospub	4
+		bospub1946	2
+		bospub1947	1
+		bospub1948	1
+		bospub1949	2
+		bospub1969	1
+		bospub1997	1
+		bospub2001	10
+		ge/caeg/a/2008/148	1
+		ge/caeg/a/2008/167	1
+		ge/caeg/a/2008/168	1
+		ge/caeg/a/2010/003	1
+		ge/caeg/a/2010/004	1
+		xge/ullja/a/2008/206	1
+		y ge/ulfr/r/FLt 75272	1
+		y ge/ulru/a/99/32	1
+		y ge/ulru/d/00/415	1
+		y ge/ulsa/a/09/270	1
+		‬	1
+	z		
+		2	3
